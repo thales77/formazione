@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "axios": "^1.7.7",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "jsonstream": "^1.0.3",
+    "pg": "^8.13.0"
+  }
+}
